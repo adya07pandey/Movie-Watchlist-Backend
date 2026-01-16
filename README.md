@@ -176,4 +176,3 @@ Backend Developer (Learning Phase)
 
 ---
 
-⭐ If you found this project useful, feel free to star the repository!
