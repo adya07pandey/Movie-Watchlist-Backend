@@ -173,7 +173,5 @@ npm run dev
 
 **Adya Pandey**
 
-Backend Developer (Learning Phase)
-
 ---
 
